@@ -75,6 +75,7 @@ class DetailScreen extends StatelessWidget {
         padding: EdgeInsets.all(16.0),
         child: Text(todo.description),
       ),
+      
     );
   }
 }
